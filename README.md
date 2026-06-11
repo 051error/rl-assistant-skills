@@ -38,8 +38,8 @@ Chinese README.md([rl-assistant/README_CN.md](https://github.com/051error/rl-ass
 
 ```bash
 # Clone to your Claude Code skills directory
-git clone git@github.com:051error/051repo.git
-cp -r 051repo/rl-assistant ~/.claude/skills/rl-assistant
+git clone git@github.com:051error/rl-assistant-skills.git
+cp -r rl-assistant-skills/rl-assistant ~/.claude/skills/rl-assistant
 ```
 
 Or install via the `.skill` file directly in Claude Code.
