@@ -37,8 +37,8 @@
 
 ```bash
 # 克隆到 Claude Code skills 目录
-git clone git@github.com:051error/051repo.git
-cp -r 051repo/rl-assistant ~/.claude/skills/rl-assistant
+git clone git@github.com:051error/rl-assistant-skills.git
+cp -r rl-assistant-skills/rl-assistant ~/.claude/skills/rl-assistant
 ```
 
 或通过 `.skill` 文件直接在 Claude Code 中安装。
