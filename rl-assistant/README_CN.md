@@ -111,7 +111,3 @@ rl-assistant/
     ├── compare_runs.py         # 多实验对比工具
     └── profile_bottleneck.py   # 训练瓶颈分析工具
 ```
-
-## 许可证
-
-MIT
