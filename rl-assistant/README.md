@@ -111,7 +111,3 @@ rl-assistant/
     ├── compare_runs.py         # Multi-experiment comparison
     └── profile_bottleneck.py   # Training bottleneck profiler
 ```
-
-## License
-
-MIT
